@@ -1,0 +1,7 @@
+go 1.19
+
+use (
+	./libs
+	./main/show_users
+	./main/subscriptions
+)
